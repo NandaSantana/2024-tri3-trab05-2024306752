@@ -79,9 +79,9 @@ dialog {
   width: 20vw ;
   height: 40vh;
   background-image: url(https://stories.cnnbrasil.com.br/wp-content/uploads/sites/9/2024/02/michael-jackson-210aa5866c7d4dd58de8e3af57fe919a.jpg); /* Caminho da imagem */
-  background-size: cover; /* Ajusta a imagem para cobrir todo o diálogo */
-  background-position: center; /* Centraliza a imagem */
-  border: none; /* Remove a borda padrão do diálogo */
+  background-size: cover; 
+  background-position: center; 
+  border: none; 
   padding: 20px;
 }
 
