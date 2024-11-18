@@ -57,6 +57,12 @@ main .galeria > div img {
   top: var(--translate);
 }
 
+.gallery-image-modal .bt-close::after {
+  content: "✕";
+  color: #000000;
+  font-size: calc(var(--size) / 2);
+}
+
 @media screen and (max-width: 600px) {
   body {
     grid-template-columns: 1fr;
